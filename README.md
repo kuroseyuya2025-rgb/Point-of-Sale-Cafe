@@ -3,9 +3,14 @@
 A Java-based Point of Sale (POS) and Cafe Billing System developed for **104 Brews**.  
 The system provides a simple desktop interface for taking customer orders, calculating bills, printing receipts, and viewing transaction records.
 
-## Demo
 
-▶️ **[Watch the POS System Demo](demo.mp4)**
+## 🎥 Project Demo
+
+Here is a demonstration of the 104 Brews Cafe POS & Billing System.
+
+[demo.mp4](https://github.com/user-attachments/assets/5043ec0e-f9dc-436a-bfcf-daf416e73e81)
+
+
 
 The demo video shows the main workflow of the system, including:
 
