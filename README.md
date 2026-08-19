@@ -27,11 +27,11 @@ The demo video shows the main workflow of the system, including:
 
 ### Login
 
-![Login Screen](screenshots/01-login.jpg.png)
+![Login Screen](01-login.jpg)
 
 ### Main POS Interface
 
-![POS Interface](screenshots/02-pos.jpg.png)
+![POS Interface](02-pos.jpg)
 
 The POS interface organizes products into categories such as:
 
@@ -41,13 +41,13 @@ The POS interface organizes products into categories such as:
 
 ### Receipt and Billing
 
-![Receipt and Billing](screenshots/03-receipt.jpg.png)
+![Receipt and Billing](03-receipt.jpg.png)
 
 The billing section displays the order details, subtotal, tax, total, cash received, and change.
 
 ### Transaction Records
 
-![Transaction Records](screenshots/04-transaction-records.jpg.png)
+![Transaction Records](04-transaction-records.jpg)
 
 The transaction records section allows the user to search transactions by customer number or date and calculate earnings for a selected period.
 
