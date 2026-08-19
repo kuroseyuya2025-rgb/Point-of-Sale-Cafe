@@ -41,7 +41,7 @@ The POS interface organizes products into categories such as:
 
 ### Receipt and Billing
 
-![Receipt and Billing](03-receipt.jpg.png)
+![Receipt and Billing](03-receipt.jpg)
 
 The billing section displays the order details, subtotal, tax, total, cash received, and change.
 
