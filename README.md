@@ -111,8 +111,6 @@ This project demonstrates the development of a desktop-based POS and billing app
 
 **Yuya**
 
-Bachelor of Science in Information Systems Student
-
 ---
 
 ⭐ If you find this project useful or interesting, feel free to explore the source code and project structure.
