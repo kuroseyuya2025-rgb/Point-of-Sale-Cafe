@@ -86,6 +86,9 @@ The transaction records section allows the user to search transactions by custom
 5. Locate the main/login class of the project.
 6. Run the project.
 7. Log in and use the POS interface.
+8. User Info:
+   - Cashier (Name: cashier | Pass: cashier)
+   - Admin (Name: admin| Pass: admin)
 
 ## Project Structure
 
